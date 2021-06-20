@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riddh9904
 - 👀 I’m Data Scientist
 - 🌱 I’m always looking to learn new algorithms in machine learning ...
-- 💞️ I’m looking to collaborate on data science community
+- 💞️ Looking to collaborate with data science community
 - 📫 You can reach out to me at riddhi.9904@gmail.com
 
 <!---
