@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riddh9904
+- 👋 Hi, I’m Riddhi
 - 👀 I’m Data Scientist
 - 🌱 I’m always looking to learn new algorithms in machine learning ...
 - 💞️ Looking to collaborate with data science community
